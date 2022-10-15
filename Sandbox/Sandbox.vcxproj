@@ -82,6 +82,9 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ProjectReference Include="..\pcdv-game-engine\pcdv-game-engine.vcxproj">
+      <Project>{1f5d2282-2bf3-4d35-8cf3-cbc9861cc26f}</Project>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
