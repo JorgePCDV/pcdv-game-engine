@@ -1,11 +1,11 @@
 #pragma once
 
 namespace Pcdv {
-	class Application
+	class __declspec(dllexport) Application
 	{
 	public:
 		Application();
-		~Application();
+		virtual ~Application();
 
 		void Run();
 	};
