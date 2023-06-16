@@ -11,6 +11,7 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="src\Pcdv.h" />
     <ClInclude Include="src\Pcdv\Application.h" />
     <ClInclude Include="src\Pcdv\Core.h" />
   </ItemGroup>

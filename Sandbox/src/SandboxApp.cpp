@@ -1,8 +1,6 @@
-namespace Pcdv {
-	__declspec(dllimport) void Print();
-}
+#include "Pcdv.h"
 
 void main() 
 {
-	Pcdv::Print();
+	//Pcdv::Print();
 }

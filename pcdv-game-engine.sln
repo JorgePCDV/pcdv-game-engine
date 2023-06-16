@@ -5,7 +5,7 @@ VisualStudioVersion = 16.0.32901.82
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Sandbox", "Sandbox\Sandbox.vcxproj", "{AB56690D-401B-4139-8D94-9CC9DF8EF47F}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "pcdv-game-engine", "pcdv-game-engine\pcdv-game-engine.vcxproj", "{1F5D2282-2BF3-4D35-8CF3-CBC9861CC26F}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Pcdv", "Pcdv\Pcdv.vcxproj", "{1F5D2282-2BF3-4D35-8CF3-CBC9861CC26F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
