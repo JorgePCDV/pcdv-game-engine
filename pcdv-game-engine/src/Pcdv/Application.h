@@ -1,7 +1,9 @@
 #pragma once
 
+#include "Core.h"
+
 namespace Pcdv {
-	class __declspec(dllexport) Application
+	class PCDV_API Application
 	{
 	public:
 		Application();
