@@ -1,6 +1,22 @@
 #include "Pcdv.h"
 
-void main() 
+class Sandbox : public Pcdv::Application 
 {
-	//Pcdv::Print();
+public:
+	Sandbox()
+	{
+
+	}
+
+	~Sandbox()
+	{
+
+	}
+};
+
+int main() 
+{
+	Sandbox* sandbox = new Sandbox();
+	sandbox->Run();
+	delete sandbox;
 }

@@ -1,2 +1,2 @@
 ﻿  SandboxApp.cpp
-D:\Projects\pcdv-game-engine\Sandbox\src\SandboxApp.cpp(1,10): fatal error C1083: Cannot open include file: 'Pcdv.h': No such file or directory
+  Sandbox.vcxproj -> D:\Projects\pcdv-game-engine\bin\Debug-x64\Sandbox\Sandbox.exe
