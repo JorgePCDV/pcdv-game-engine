@@ -14,9 +14,7 @@ public:
 	}
 };
 
-int main() 
+Pcdv::Application* Pcdv::CreateApplication()
 {
-	Sandbox* sandbox = new Sandbox();
-	sandbox->Run();
-	delete sandbox;
+	return new Sandbox();
 }
