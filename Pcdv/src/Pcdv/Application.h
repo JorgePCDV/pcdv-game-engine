@@ -2,7 +2,8 @@
 
 #include "Core.h"
 
-namespace Pcdv {
+namespace Pcdv 
+{
 	class PCDV_API Application
 	{
 	public:
