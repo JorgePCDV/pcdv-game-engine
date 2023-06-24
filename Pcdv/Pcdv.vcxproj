@@ -11,14 +11,12 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="src\Pcdv\Log.h" />
     <ClInclude Include="src\Pcdv.h" />
     <ClInclude Include="src\Pcdv\Application.h" />
     <ClInclude Include="src\Pcdv\Core.h" />
     <ClInclude Include="src\Pcdv\EntryPoint.h" />
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="src\Pcdv\Log.cpp" />
     <ClCompile Include="src\Pcdv\Application.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
