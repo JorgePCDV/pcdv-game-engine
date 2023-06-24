@@ -18,3 +18,4 @@ namespace Pcdv
 		static std::shared_ptr<spdlog::logger> s_ClientLogger;
 	};
 }
+

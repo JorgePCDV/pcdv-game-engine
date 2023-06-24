@@ -4,3 +4,5 @@
 
 *.opendb
 .vs/
+bin/
+bin-int/
