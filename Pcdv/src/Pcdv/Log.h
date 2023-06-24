@@ -5,7 +5,7 @@
 #include "Core.h"
 #include "spdlog/spdlog.h"
 
-namespace Pcdv 
+namespace Pcdv
 {
 	class PCDV_API Log
 	{
